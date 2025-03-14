@@ -120,7 +120,7 @@ Chat-Website
 
 - **Author:** Tania Devi
 - **LinkedIn:** [linkedin.com/in/taniadevi](https://www.linkedin.com/in/tania-devi-5b95772aa/)
-- **GitHub:** [github.com/taniadevi]()
+- **GitHub:** [github.com/taniadevi](https://github.com/tania303-ai)
 
 ---
 
